@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-yellow?style=for-the-badge&logo=github)](www.linkedin.com/in/hilalcoskun) 
+[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-yellow?style=for-the-badge&logo=github)](https://www.linkedin.com/in/hilalcoskun/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hilal.coskun20@gmail.com)
 
 
