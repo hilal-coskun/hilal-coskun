@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag'ın Github İstatistikleri](https://github-readme-stats.vercel.app/api ?username=anuraghazra )](https://github.com/anuraghazra/github-readme-stats)
+![mustafacagri'nin github istatistikleri](https://github-readme-stats.vercel.app/api ?username=hilal-coskun&show_icons=true&theme=radical )
+
 
 
 
