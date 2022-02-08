@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-![mustafacagri'nin github istatistikleri](https://github-readme-stats.vercel.app/api ?username=hilal-coskun&show_icons=true&theme=radical )
+![Github stats ](https://github-readme-stats.vercel.app/api?username=hilal-coskun&show_icons=true&theme=radical)
 
 
 
