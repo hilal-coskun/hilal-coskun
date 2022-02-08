@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Hilal'ın Github İstatistikleri](https://github-readme-stats.vercel.app/api ?username=hilal-coskun )](https://github.com/anuraghazra/github-readme-stats)
+[![Hilal'ın Github İstatistikleri](https://github-readme-stats.vercel.app/api ?username=hilal-coskun )](https://github.com/hilal-coskun/github-readme-stats)
 
 
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-yellow?style=for-the-badge&logo=github)](https://www.linkedin.com/in/hilalcoskun/) 
