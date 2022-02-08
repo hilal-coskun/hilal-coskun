@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hilal' ın GitHub istatistikleri](https://github-readme-stats.vercel.app/api ?username=hilal-coskun&show_icons=true&theme=dark )](https://github.com/anuraghazra/github-readme-stats)
-
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-yellow?style=for-the-badge&logo=github)](https://www.linkedin.com/in/hilalcoskun/) 
  [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hilal.coskun20@gmail.com)
 
