@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 [<img align="left" alt="Angular" width="26px" src="https://github.com/angular.png?s=20" style="padding-right:10px;" />][angularplaylist]
 
-[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
 
 
