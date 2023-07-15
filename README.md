@@ -36,7 +36,6 @@ Hi 👋 My name is Hilal Coşkun
 Junior Software Engineer
 ------------------------
 
-* 🧠  I'm learning Angular
 * 🚀  I'm currently working on .NET Core
 
 
